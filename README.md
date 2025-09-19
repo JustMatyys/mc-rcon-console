@@ -1,7 +1,7 @@
 # MC Rcon Console
 
 ## Instalation
-First you need to have [Python](https://python.org/)
+First you need to have [Python](https://python.org/).
 Then after installing, open CMD and type:
 ```
 pip install customtkinter
